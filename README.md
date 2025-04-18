@@ -43,5 +43,6 @@
 - 현재 모듈 목록
 ```
 ├── gce_disk
+├── gce_snapshot
 ```
 
