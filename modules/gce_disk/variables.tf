@@ -4,6 +4,7 @@ variable "zone" {
   default     = "asia-northeast3-a"
 }
 
+
 ### DISK Configurations ###
 
 variable "new_disk_name" {
