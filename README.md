@@ -42,7 +42,20 @@
 
 - 현재 모듈 목록
 ```
-├── gce_disk
-├── gce_snapshot
+modules
+ ┣ gce_disk
+ ┣ gce_image
+ ┣ gce_instance
+ ┣ gce_instance_template
+ ┣ gce_snapshot
+ ┣ gcp_firewall
+ ┣ gcp_iam_role
+ ┣ gcp_iam_role_binding
+ ┣ gcp_iam_service_account
+ ┣ gcp_iam_service_account_key
+ ┣ gcp_subnetworks
+ ┣ gcp_vpc_network
+ ┣ gcs_storage_bucket
+ ┣ gke_container_cluster
+ ┗ gke_container_node_pool
 ```
-
